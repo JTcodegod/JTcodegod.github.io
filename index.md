@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+<head>
+  <h1>
+    Welcome to my profile!
+  </h1>
+</head>
 
-You can use the [editor on GitHub](https://github.com/JTcodegod/JTcodegod.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JTcodegod/JTcodegod.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<body>
+  <h2>
+    About Me...
+  </h2>
+  <p>Name: Justin Turner </p>
+  <p>Student No.: s3792793 </p>
+  <p>Email: s3792793@student.rmit.edu.au</p>
+  <p>Nationality: Australian</p>
+  <p>Education to Date: Year 12 Certificate/ATAR</p>
+  <p>Languages Spoken: English</p>
+  <p>Pet: I have a boxer named Ali</p>
+  <p>Hobbies: I enjoy playing basketball and lots of video games.</p>
+  <p></p>
+  <h2>
+    Why does IT interest me?
+    </h2>
+  <p>I am interested in IT as I enjoy problem solving and have thoroughly enjoyed 
+    programming/ coding which I completed in a previous degree. I was undertaking 
+    an engineering degree previously and I found myself enjoying the programming 
+    elements of the course while not seeing a future for myself in engineering, 
+    this started my interest in undertaking the IT course and to attempt to work 
+    my way to a programming role. I currently work in a system support role for a 
+    media company, but have no further experience besides that.</p>
+  <p>I chose to come to RMIT as the option to study via correspondence was very 
+    flexible and the university has a great reputation, especially in the IT field. 
+    Because I work full time it is important for me to have the flexibility to study 
+    when time permits it and this course allows that.</p>
+  <p>During the degree I expect to gain proficiency in a variety of different 
+    programming languages and systems, and to ready myself for the workforce.</p>
