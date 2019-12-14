@@ -4,12 +4,12 @@
   </h1>
 </head>
 
-<img src=”Github Profile.JPG” />
-
 <body>
   <h2>
     About Me.
   </h2>
+  <p><img style="padding: 0 15px; float: left;" src=GithubProfile.JPG width="160" height="160"/></p>
+  <p style ="margin-top: 20px;"></p>
   <p>Name: Justin Turner </p>
   <p>Student No.: s3792793 </p>
   <p>Email: s3792793@student.rmit.edu.au</p>
@@ -39,6 +39,7 @@
       My Ideal Job
       </h2>
     <p></p>
+    <p><img src=IdealJob.JPG/></p>
     <p>Link to the advertisement: https://jobs.jobvite.com/blizzard/job/oCUvbfwW</p>
     <p>I have always had a strong passion for video games, and I have always 
     wanted to have the opportunity to work in the industry. A lot of my favourite 
