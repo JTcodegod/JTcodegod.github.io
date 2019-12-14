@@ -4,6 +4,8 @@
   </h1>
 </head>
 
+<img src=”ProfilePic.jpg” />
+
 <body>
   <h2>
     About Me.
