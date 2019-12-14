@@ -8,7 +8,7 @@
   <h2>
     About Me.
   </h2>
-  <p><img src="GithubProfile.JPG" width="160" height="160"/></p>
+  <p><img src="githubprofile.jpg" width="160" height="160"/></p>
   <p style ="margin-top: 20px;"></p>
   <p>Name: Justin Turner </p>
   <p>Student No.: s3792793 </p>
@@ -61,7 +61,7 @@
       My Ideal Job
       </h2>
     <p></p>
-    <p><img src="IdealJob.JPG"/></p>
+    <p><img src="idealjob.jpg"/></p>
     <p>Link to the advertisement: <a href="https://jobs.jobvite.com/blizzard/job/oCUvbfwW" target="_blank">Click Here</a> </p>
     <p>I have always had a strong passion for video games, and I have always 
     wanted to have the opportunity to work in the industry. A lot of my favourite 
