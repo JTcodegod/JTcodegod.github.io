@@ -40,7 +40,7 @@
       </h2>
     <p></p>
     <p><img src=IdealJob.JPG/></p>
-    <p>Link to the advertisement: <a href="https://jobs.jobvite.com/blizzard/job/oCUvbfwW" target="_blank">https://jobs.jobvite.com/blizzard/job/oCUvbfwW</a></p>
+    <p>Link to the advertisement: <a href="https://jobs.jobvite.com/blizzard/job/oCUvbfwW" target="_blank">Click Here</a> </p>
     <p>I have always had a strong passion for video games, and I have always 
     wanted to have the opportunity to work in the industry. A lot of my favourite 
     games are developed by Blizzard Entertainment and I would love the opportunity 
