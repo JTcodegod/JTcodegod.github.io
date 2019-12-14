@@ -20,6 +20,28 @@
   <p>Hobbies: I enjoy playing basketball and lots of video games.</p>
   <p></p>
   <h2>
+    Online Test Results
+  </h2>
+  <p>Myers Briggs Result: ENTP - The Inventor</p>
+  <p>Learning Style Result: Auditiory/Visual Learner</p>
+  <p>Creativity Test Result: 58.29 creativity score</p>
+  <p>My results indicate that I am a problem solver, that I learn best from seeing a 
+  process completed, and hearing an explanation of it and why we do it. I am slightly 
+  above average with my creativity. The test results merely confirm what I already know 
+  about myself. I learn the most effectively when I watch people/ videos on a topic or 
+  listen to a lecture, and I have always found logic and problem solving challenges with 
+  definite correct answers such as math and coding, easier than more creative/ imaginative 
+  tasks such as writing essays.</p>
+  <p>Due to these results I believe my best work will be completed when we talk through ideas/ 
+  challenges as a group, and the best way for me to function in team meetings will be via voice 
+  communications due to my auditory learning style as visual will be a challenge via correspondence. 
+  I think my strengths in workload will be in a coding role or some other problem solving area with 
+  a definite correct or wrong answer available.</p>
+  <p>I think when forming a team it is best to get people of different learning styles and personality 
+  types to complement the strengths and weaknesses of each. Obviously, these tests shouldn’t be the deciding 
+  factors when making a group, but they give a nice indication as to how people in the group will perform and 
+  co-exist.</p>
+  <h2>
     Why does IT interest me?
     </h2>
   <p>I am interested in IT as I enjoy problem solving and have thoroughly enjoyed 
@@ -138,3 +160,10 @@
     on gameplay and player skill. The game will be challenging, and while I 
     recognize that this isn’t for everyone, my main goal is to create a video game 
     that I would personally love to play and I hope others agree with me.</p>
+    <h2>
+      Bibliography
+    </h2>
+    <p>Wijman, T. (2019). <i>The Global Games Market Will Generate $152.1 Billion in 2019 as the U.S. Overtakes China as the Biggest Market | Newzoo.</i> [online] Newzoo. Available at: https://newzoo.com/insights/articles/the-global-games-market-will-generate-152-1-billion-in-2019-as-the-u-s-overtakes-china-as-the-biggest-market/ [Accessed 10 Dec. 2019].</p>
+  <p>Truity. (2019). <i>The TypeFinder® Personality Test.</i> [online] Available at: https://www.truity.com/test/type-finder-personality-test-new [Accessed 8 Dec. 2019].</p>
+  <p>Educationplanner.org. (2019). <i>What's Your Learning Style?.</i> [online] Available at: http://www.educationplanner.org/students/self-assessments/learning-styles.shtml [Accessed 8 Dec. 2019].</p>
+  <p>Testmycreativity.com. (2019). <i>Free online creativity test - TestMyCreativity.</i> [online] Available at: http://www.testmycreativity.com/ [Accessed 8 Dec. 2019].</p>
