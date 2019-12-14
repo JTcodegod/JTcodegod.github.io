@@ -4,7 +4,7 @@
   </h1>
 </head>
 
-<img src=”ProfilePic.jpg” />
+<img src=”Github Profile.JPG” />
 
 <body>
   <h2>
