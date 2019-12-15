@@ -7,7 +7,7 @@
 <style type="text/css">
   div {
   font-family: calibri;
-  font-color:  #fdfefe 
+  font-color = "white"; 
   border: 2px solid #73AD21;
   border-radius: 50px;
   border-color:  #424949;
