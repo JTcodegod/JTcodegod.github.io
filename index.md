@@ -6,8 +6,9 @@
 <body>
 <style type="text/css">
   div {
-  font-family: consolas;
-  border: 2px solid #73AD21;
+  font-family: calibri;
+  font-color="slateblue"
+  border: 2px solid #17202a;
   border-radius: 25px;
   }
   </style>
