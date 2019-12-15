@@ -10,6 +10,7 @@
   </h2>
   <p>
   <img src="githubprofile.jpg" width="160" height="160"/></p>
+  <p>
   Name: Justin Turner <br>
   <br>Student No.: s3792793 <br>
   <br>Email: s3792793@student.rmit.edu.au<br>
