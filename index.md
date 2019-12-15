@@ -61,7 +61,7 @@
       My Ideal Job
       </h2>
     <p></p>
-    <p><img src="idealjob.jpg" width="640" height="640"/></p>
+    <p><img src="idealjob.jpg" width="640" height="488"/></p>
     <p>Link to the advertisement: <a href="https://jobs.jobvite.com/blizzard/job/oCUvbfwW" target="_blank">Click Here</a> </p>
     <p>I have always had a strong passion for video games, and I have always 
     wanted to have the opportunity to work in the industry. A lot of my favourite 
