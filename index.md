@@ -3,18 +3,6 @@
     Welcome to my profile!
   </h1>
 </head>
-
-<style type="text/css">
-  div {
-  font-family: calibri;
-  font-color = "white"; 
-  border: 2px solid #73AD21;
-  border-radius: 50px;
-  border-color:  #424949;
-  background-color: #424949;
-  }
-  </style>
-
 <body>
 <style type="text/css">
   div {
