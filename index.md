@@ -1,11 +1,11 @@
 <html>
 <head>
-  <h1 style="font-family:Calibri; color:#34495e;>
+  <h1 style="font-family:Calibri; color:#34495e;">
     Welcome to my profile!
   </h1>
 </head>
 <body>
-  <h2 style="font-family:Calibri; color:#34495e;>
+  <h2 style="font-family:Calibri; color:#34495e;">
     About Me.
   </h2>
   <p>
@@ -20,7 +20,7 @@
   <br>Pet: I have a boxer named Ali<br>
   <br>Hobbies: I enjoy playing basketball and lots of video games.<br>
   </p>
-  <h2 style="font-family:Calibri; color:#34495e;>
+  <h2 style="font-family:Calibri; color:#34495e;">
     Online Test Results
   </h2>
   <p style="font-family:Calibri; color:#34495e; font-size: 16px;">
@@ -44,7 +44,7 @@
   factors when making a group, but they give a nice indication as to how people in the group will perform and 
   co-exist.<br>
   </p>
-  <h2 style="font-family:Calibri; color:#34495e;>
+  <h2 style="font-family:Calibri; color:#34495e;">
   Why does IT interest me?
   </h2>
   <p style="font-family:Calibri; color:#34495e; font-size: 16px;">
@@ -62,7 +62,7 @@
   <br>During the degree I expect to gain proficiency in a variety of different 
   programming languages and systems, and to ready myself for the workforce.<br>
   </p>
-  <h2 style="font-family:Calibri; color:#34495e;>
+  <h2 style="font-family:Calibri; color:#34495e;">
   My Ideal Job
   </h2>
   <p style="font-family:Calibri; color:#34495e; font-size: 16px;">
@@ -94,7 +94,7 @@
   Blizzard and keep attempting to gain employment in the roles, and continue 
   developing my experience on the side.<br>
   </p>
-  <h2 style="font-family:Calibri; color:#34495e;>
+  <h2 style="font-family:Calibri; color:#34495e;">
   My Project Idea
   </h2>
   <p style="font-family:Calibri; color:#34495e; font-size: 16px;">
@@ -167,7 +167,7 @@
   recognize that this isn’t for everyone, my main goal is to create a video game 
   that I would personally love to play and I hope others agree with me.<br>
   </p>
-  <h2 style="font-family:Calibri; color:#34495e;>
+  <h2 style="font-family:Calibri; color:#34495e;">
   Bibliography
   </h2>
   <p style="font-family:Calibri; color:#34495e; font-size: 16px;">
