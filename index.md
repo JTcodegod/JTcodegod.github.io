@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html>
-<head text="#17202a">
+<head>
   <h1>
     Welcome to my profile!
   </h1>
 </head>
-<body text="#17202a">
+<body>
   <h2>
     About Me.
   </h2>
