@@ -1,9 +1,11 @@
-<head>
+<!DOCTYPE html>
+<html>
+<head text="#17202a">
   <h1>
     Welcome to my profile!
   </h1>
 </head>
-<body>
+<body text="#17202a">
   <h2>
     About Me.
   </h2>
@@ -175,3 +177,5 @@
   <br>Educationplanner.org. (2019). <i>What's Your Learning Style?.</i> [online] Available at: http://www.educationplanner.org/students/self-assessments/learning-styles.shtml [Accessed 8 Dec. 2019].<br>
   <br>Testmycreativity.com. (2019). <i>Free online creativity test - TestMyCreativity.</i> [online] Available at: http://www.testmycreativity.com/ [Accessed 8 Dec. 2019].<br>
   </p>
+  </body>
+  </html>
