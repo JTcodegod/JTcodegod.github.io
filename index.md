@@ -4,7 +4,23 @@
   </h1>
 </head>
 
+<style type="text/css">
+  div {
+  font-family: consolas;
+  border: 2px solid #73AD21;
+  border-radius: 25px;
+  }
+  </style>
+
 <body>
+<style type="text/css">
+  div {
+  font-family: consolas;
+  border: 2px solid #73AD21;
+  border-radius: 25px;
+  }
+  </style>
+  <div>
   <h2>
     About Me.
   </h2>
@@ -20,6 +36,7 @@
   <br>Pet: I have a boxer named Ali<br>
   <br>Hobbies: I enjoy playing basketball and lots of video games.<br>
   </p>
+  </div>
   <h2>
     Online Test Results
   </h2>
