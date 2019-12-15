@@ -140,7 +140,7 @@
   will also be a story, but similar to the dark souls story it will be vague and 
   in the background, so players will need to pay attention to what is happening 
   and formulate their own theories on what is happening.<br>
-  <p>To develop the game we will utilize the Unity engine as it has a 2D mode 
+  To develop the game we will utilize the Unity engine as it has a 2D mode 
   within which will assist with development. Photoshop will be used to create 
   the assets for the game, but I will outsource the designing to a graphics 
   artist so the vision can be properly captured. In terms of hardware I believe 
