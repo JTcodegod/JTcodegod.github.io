@@ -10,7 +10,7 @@
   </h2>
   <p>
   <img src="githubprofile.jpg" width="160" height="160"/></p>
-  <p>
+  <p style="font-family:Calibri; color:#17202a; font-size: 20px;">
   Name: Justin Turner <br>
   <br>Student No.: s3792793 <br>
   <br>Email: s3792793@student.rmit.edu.au<br>
@@ -23,7 +23,7 @@
   <h2>
     Online Test Results
   </h2>
-  <p>
+  <p style="font-family:Calibri; color:#17202a; font-size: 20px;">
   Myers Briggs Result: ENTP - The Inventor<br>
   <br>Learning Style Result: Auditiory/Visual Learner<br>
   <br>Creativity Test Result: 58.29 creativity score<br>
@@ -47,7 +47,7 @@
   <h2>
   Why does IT interest me?
   </h2>
-  <p>
+  <p style="font-family:Calibri; color:#17202a; font-size: 20px;">
   I am interested in IT as I enjoy problem solving and have thoroughly enjoyed 
   programming/ coding which I completed in a previous degree. I was undertaking 
   an engineering degree previously and I found myself enjoying the programming 
@@ -65,7 +65,7 @@
   <h2>
   My Ideal Job
   </h2>
-  <p>
+  <p style="font-family:Calibri; color:#17202a; font-size: 20px;">
   <img src="idealjob.jpg" width="640" height="488"/><br>
   <br>Link to the advertisement: <a href="https://jobs.jobvite.com/blizzard/job/oCUvbfwW" target="_blank">Click Here</a><br>
   <br>I have always had a strong passion for video games, and I have always 
@@ -97,7 +97,7 @@
   <h2>
   My Project Idea
   </h2>
-  <p>
+  <p style="font-family:Calibri; color:#17202a; font-size: 20px;">
   My project idea is to use unity to create a 2d precision platformer video
   game. I want it to be a very challenging experience, but rewarding, and to 
   encourage player exploration/ curiosity. It will be a single-player only 
@@ -170,7 +170,7 @@
   <h2>
   Bibliography
   </h2>
-  <p>
+  <p style="font-family:Calibri; color:#17202a; font-size: 20px;">
   Wijman, T. (2019). <i>The Global Games Market Will Generate $152.1 Billion in 2019 as the U.S. Overtakes China as the     Biggest Market | Newzoo.</i> [online] Newzoo. Available at: https://newzoo.com/insights/articles/the-global-games-market-will-generate-152-1-billion-in-2019-as-the-u-s-overtakes-china-as-the-biggest-market/ [Accessed 10 Dec. 2019].<br>
   <br>Truity. (2019). <i>The TypeFinder® Personality Test.</i> [online] Available at: https://www.truity.com/test/type-finder-personality-test-new [Accessed 8 Dec. 2019].<br>
   <br>Educationplanner.org. (2019). <i>What's Your Learning Style?.</i> [online] Available at: http://www.educationplanner.org/students/self-assessments/learning-styles.shtml [Accessed 8 Dec. 2019].<br>
