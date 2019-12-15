@@ -4,15 +4,6 @@
   </h1>
 </head>
 <body>
-<style type="text/css">
-  div {
-  font-family: calibri;
-  font-color="slateblue"
-  border: 2px solid #17202a;
-  border-radius: 25px;
-  }
-  </style>
-  <div>
   <h2>
     About Me.
   </h2>
@@ -28,8 +19,6 @@
   <br>Pet: I have a boxer named Ali<br>
   <br>Hobbies: I enjoy playing basketball and lots of video games.<br>
   </p>
-  </div>
-  <div>
   <h2>
     Online Test Results
   </h2>
@@ -54,8 +43,6 @@
   factors when making a group, but they give a nice indication as to how people in the group will perform and 
   co-exist.<br>
   </p>
-  </div>
-  <div>
   <h2>
   Why does IT interest me?
   </h2>
@@ -74,8 +61,6 @@
   <br>During the degree I expect to gain proficiency in a variety of different 
   programming languages and systems, and to ready myself for the workforce.<br>
   </p>
-  </div>
-  <div>
   <h2>
   My Ideal Job
   </h2>
@@ -108,8 +93,6 @@
   Blizzard and keep attempting to gain employment in the roles, and continue 
   developing my experience on the side.<br>
   </p>
-  </div>
-  <div>
   <h2>
   My Project Idea
   </h2>
@@ -183,8 +166,6 @@
   recognize that this isn’t for everyone, my main goal is to create a video game 
   that I would personally love to play and I hope others agree with me.<br>
   </p>
-  </div>
-  <div>
   <h2>
   Bibliography
   </h2>
@@ -194,4 +175,3 @@
   <br>Educationplanner.org. (2019). <i>What's Your Learning Style?.</i> [online] Available at: http://www.educationplanner.org/students/self-assessments/learning-styles.shtml [Accessed 8 Dec. 2019].<br>
   <br>Testmycreativity.com. (2019). <i>Free online creativity test - TestMyCreativity.</i> [online] Available at: http://www.testmycreativity.com/ [Accessed 8 Dec. 2019].<br>
   </p>
-  </div>
