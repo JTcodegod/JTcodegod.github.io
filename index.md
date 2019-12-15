@@ -6,9 +6,11 @@
 
 <style type="text/css">
   div {
-  font-family: consolas;
+  font-family: calibri;
   border: 2px solid #73AD21;
-  border-radius: 25px;
+  border-radius: 50px;
+  border-color:  #273746;
+  background-color: #273746;
   }
   </style>
 
